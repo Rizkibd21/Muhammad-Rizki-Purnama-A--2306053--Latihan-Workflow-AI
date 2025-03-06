@@ -1,3 +1,4 @@
+Cara menjalankan kode dan penjelasannya :
 1. Membuat Data Penjualan dan Menyimpannya ke CSV
 Kode berikut digunakan untuk membuat dataset sederhana dengan informasi produk yang dijual, jumlah terjual, stok, dan harga satuan.
 Fungsi Kode:
@@ -36,3 +37,4 @@ diproses dengan menambahkan kolom Total Penjualan dan Keuntungan. Model machine 
 dilatih menggunakan fitur Jumlah Terjual dan Stok, dengan target klasifikasi apakah stok perlu diisi
 ulang atau tidak. Setelah evaluasi, model digunakan untuk memprediksi kebutuhan restock produk baru.
 Pendekatan ini dapat membantu dalam manajemen inventaris dan pengambilan keputusan terkait stok barang.
+
